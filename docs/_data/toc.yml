@@ -1,7 +1,7 @@
 - url: /introduction
   not_numbered: true
 - title: GitHub Repository
-  url: https://github.com/hunters-forge/ThreatHunter-Playbook
+  url: https://github.com/gauravpurohit1981/ThreatHunter-Playbook
   external: true
   not_numbered: true
 - divider: true
